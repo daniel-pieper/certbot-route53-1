@@ -17,7 +17,7 @@
             "Effect": "Allow",
             "Action": [
                 "route53:List*",
-                "route53:Get*",
+                "route53:Get*"
             ],
             "Resource": [
                 "*"
